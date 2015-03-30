@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/MGAPP/!svn/ver/46/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK
+END
+Baidu.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/Baidu.m
+END
+BaiduUserSession.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduUserSession.m
+END
+BaiduAPIRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduAPIRequest.m
+END
+BaiduError.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduError.h
+END
+BaiduError.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduError.m
+END
+BaiduUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduUtility.h
+END
+BaiduConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduConfig.h
+END
+BaiduUtility.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/MGAPP/!svn/ver/46/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduUtility.m
+END
+BaiduAuthorizeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduAuthorizeViewController.h
+END
+BaiduDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduDelegate.h
+END
+BaiduConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduConfig.m
+END
+BaiduUserSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduUserSessionManager.h
+END
+BaiduAuthorizeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/MGAPP/!svn/ver/46/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduAuthorizeViewController.m
+END
+Baidu.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/Baidu.h
+END
+BaiduMacroDef.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduMacroDef.h
+END
+BaiduUserSessionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduUserSessionManager.m
+END
+BaiduUserSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduUserSession.h
+END
+BaiduAPIRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/MGAPP/!svn/ver/45/trunk/ios/MGAPP/MGAPP/ThirdPart/BaiduSDK/BaiduAPIRequest.h
+END
